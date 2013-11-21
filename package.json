@@ -1,0 +1,14 @@
+{
+    "name": "croxton/stash",
+    "description": "Stash allows you to stash text and snippets of code for reuse throughout your templates.",
+    "homepage": "https://github.com/croxton/Stash",
+    "authors": [
+        {
+            "name": "Mark Croxton",
+            "email": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.2.4",
+    }
+}
